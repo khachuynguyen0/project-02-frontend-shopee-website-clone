@@ -1,0 +1,21 @@
+
+/*740px-1023px*/
+@media screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+    /* body{
+        background-color: orange;
+    } */
+
+    .hide-on-tablet {
+        display: none;
+    }
+    
+    .header__cart{
+        width: 80px;
+        text-align: right;
+    }
+
+    .app__container{
+        padding-top: 0px;
+    }
+}
+
